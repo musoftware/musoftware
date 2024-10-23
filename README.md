@@ -11,12 +11,15 @@ I'm a passionate developer with a broad skill set and experience in building bot
 
 ### 🚀 My Work & Contributions
 
-I’ve worked on a wide range of projects, including:
+Here are some of the repositories I've worked on:
 
-- **Educational Software**: Developed tools and applications for AMC Academy, enhancing learning experiences through interactive and user-friendly platforms.
-- **Web Development**: Created dynamic, scalable applications using Laravel and React, with a focus on user-centered design and seamless performance.
-- **Data Scraping & Automation**: Built efficient data scrapers and automation tools using Python, facilitating the gathering and processing of data from the web.
-- **Machine Learning**: Currently expanding my expertise in machine learning, focusing on practical applications and integrating ML models into real-world systems.
+- **[BasmaBook](https://github.com/musoftware/BasmaBook)**: An API-driven project for managing book records and educational resources.
+- **[Khamsat Command Execution System](https://github.com/musoftware/khamsat-command-execution-system)**: A system built to scrape and manage requests from the Khamsat website.
+- **[Loan Calculator](https://github.com/musoftware/Loan-Calculator)**: A tool for calculating loan payments and providing detailed financial breakdowns.
+- **[Replay Attack on ISAC](https://github.com/musoftware/replay-attack-on-ISAC)**: A simulation of a Replay Attack on Integrated Sensing and Communication systems based on OFDM.
+- **[TensorFlow GPU Setup](https://github.com/musoftware/TensorFlow_GPU_Setup)**: A guide and setup instructions for TensorFlow with GPU support on Ubuntu using VMware.
+
+Feel free to check out my other repositories for more examples of my work.
 
 ### 📈 GitHub Stats
 
@@ -35,16 +38,18 @@ I’ve worked on a wide range of projects, including:
 
 ### 📫 Get in Touch
 
-- Email: musoftware@example.com
-- LinkedIn: [musoftware](https://linkedin.com/in/musoftware)
-- Website: [AMC Academy](https://amcacademy.net/)
+- 🌐 Website: [musoftwares.com](https://www.musoftwares.com/)
+- 💼 LinkedIn: [musoftwareuno](https://www.linkedin.com/in/musoftwareuno/)
+- 📘 Facebook: [mahmoudmu1992](https://www.facebook.com/mahmoudmu1992/)
+- 🐦 Twitter: [MusoftwareUno](https://x.com/MusoftwareUno)
+- 📧 Email: mahmoudmn810@gmail.com
 
 ### 📜 Latest Projects
 
-- **[Project 1](#)**: Developed an interactive learning platform for AMC Academy.
-- **[Project 2](#)**: Created a Python-based web scraper for automating data collection.
-- **[Project 3](#)**: Designed a full-stack application using Laravel and Vue.js for managing online courses.
+- **[BasmaBook](https://github.com/musoftware/BasmaBook)**: A book management and educational tool API.
+- **[Khamsat Command Execution System](https://github.com/musoftware/khamsat-command-execution-system)**: A project designed to scrape and manage website requests.
+- **[Loan Calculator](https://github.com/musoftware/Loan-Calculator)**: A detailed loan calculator for financial planning.
 
 ---
 
-*Feel free to check out my repositories and reach out if you'd like to collaborate on a project or have any questions!*
+*Feel free to explore my repositories, reach out for collaborations, or connect with me on my social platforms!*
