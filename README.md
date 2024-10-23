@@ -1,4 +1,4 @@
-# Hi there 👋, I'm musoftware
+# Hi there 👋, I'm Mahmoud
 
 I'm a passionate developer with a broad skill set and experience in building both educational and technical projects. I love creating software solutions that solve real-world problems and contribute to the open-source community.
 
