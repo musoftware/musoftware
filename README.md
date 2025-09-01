@@ -55,8 +55,6 @@
 
 ## 💡 Featured Projects
 
-## 💡 Featured Projects
-
 | 🔗 Project | 🛠️ Stack | 🔎 Description |
 |-----------|-----------|----------------|
 | <a href="https://github.com/musoftware/downloads">Musoftware Programs DDL</a> | Laravel, PHP | Public downloads hub for Musoftware free utilities |
