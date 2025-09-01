@@ -98,25 +98,6 @@
 
 ---
 
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/musoftware">
-    <img src="https://github-readme-stats.vercel.app/api?username=musoftware&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&show_icons=true" alt="GitHub Stats" />
-  </a>
-  <br/>
-  <a href="https://github.com/musoftware">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=musoftware&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-  <br/>
-  <a href="https://github.com/musoftware">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musoftware&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact" alt="Top Languages" />
-  </a>
-</p>
-
----
-
 ## 🌐 Let's Connect
 
 <p align="center">
