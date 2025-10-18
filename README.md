@@ -25,7 +25,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Laravel+%E2%80%A2+React+%E2%80%A2+Tailwind+%E2%80%A2+PHP+%E2%80%A2+MySQL;C%23+Programmer+%E2%80%A2+Flutter+%E2%80%A2+Dart;Chrome+Extensions+Developer;Freelancer+%7C+Open+to+Opportunities;Let%27s+Build+Something+Great+Together" alt="Typing SVG" />
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=FF6F61&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;Laravel+%7C+Livewire+%7C+RESTful+APIs;React+%7C+Tailwind+CSS+%7C+Next.js;C%23+Developer+%7C+.NET+Applications;Flutter+%7C+Dart+Mobile+Development;Chrome+Extensions+%26+Automation+Tools;Backend+Integration+%7C+Payment+Gateways+%7C+Security;Database+Design+%7C+MySQL+%7C+PostgreSQL;Clean+Code+%26+Best+Practices+Advocate;Freelancer+%7C+Problem+Solver+%7C+Tech+Enthusiast;Let's+Build+Something+Great+Together!">
+</p>
 ---
 
 ## 🚀 About Me
