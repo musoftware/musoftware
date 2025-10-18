@@ -1,6 +1,27 @@
 <h1 align="center">👋 Hello, I'm <span style="color:#FF6F61;">Mahmoud Amin (Mu)</span></h1>
 <h3 align="center">🇪🇬 Full Stack Web Developer | Laravel & API Integrations | C# | Flutter/Dart | Chrome Extensions</h3>
 
+
+<p align="center">
+  <a href="https://www.musoftwares.com/" target="_blank">
+    <img src="https://img.shields.io/badge/💼-Order%20Me-FF6F61?style=for-the-badge&logo=firefox&logoColor=white" alt="Order Me Button">
+  </a>
+</p>
+
+---
+
+### 🚀 How to Order My Services
+
+1️⃣ **Sign Up** at [MuSoftwares.com](https://www.musoftwares.com/)  
+2️⃣ **Add Balance** to your account  
+3️⃣ **Make a Ticket** to start your custom order  
+
+---
+
+💡 *Let’s build something amazing together!*  
+
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Laravel+%E2%80%A2+React+%E2%80%A2+Tailwind+%E2%80%A2+PHP+%E2%80%A2+MySQL;C%23+Programmer+%E2%80%A2+Flutter+%E2%80%A2+Dart;Chrome+Extensions+Developer;Freelancer+%7C+Open+to+Opportunities;Let%27s+Build+Something+Great+Together" alt="Typing SVG" />
 </p>
