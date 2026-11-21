@@ -80,6 +80,7 @@
 
 | 🔗 Project | 🛠️ Stack | 🔎 Description |
 |-----------|-----------|----------------|
+| <a href="https://github.com/musoftware/PythonIDE">Full IDE<a> | Full IDE | Best IDE use local AI fast |
 | <a href="https://github.com/musoftware/downloads">Musoftware Programs DDL</a> | Laravel, PHP | Public downloads hub for Musoftware free utilities |
 | <a href="https://www.amctasks.com/">AMC Tasks Platform</a> | Laravel, Livewire, Tailwind | Task management system for AMC Academy students & staff |
 | <a href="https://amcacademy.net/">AMC Academy Website</a> | Laravel, Blade, Bootstrap | Official portal with course info, registration, and CMS |
